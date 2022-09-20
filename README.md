@@ -4,11 +4,11 @@ The purpose of this analysis is to answer these following questions:
 * The voter turnout for each county
 * The percentage of votes from each county out of the total count
 * The county with the highest turnout
-#### Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+### Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 * How many votes were cast in this congressional election?
 <img width="553" alt="Screen Shot 2022-09-19 at 11 08 52 PM" src="https://user-images.githubusercontent.com/110268006/191159766-f8c40207-9974-430e-9fc7-298dc6400b64.png">
-#### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 * Which county had the largest number of votes?
 <img width="1379" alt="Screen Shot 2022-09-19 at 11 11 56 PM" src="https://user-images.githubusercontent.com/110268006/191159942-1c3c315f-cf78-492c-8c09-bf3d4b012d67.png">
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
