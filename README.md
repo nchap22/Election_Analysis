@@ -20,11 +20,13 @@ The screen capture shows that the total votes cast were 369,711.
 Dever is shown to have the largest number of votes. 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 <img width="1364" alt="Screen Shot 2022-09-19 at 11 21 22 PM" src="https://user-images.githubusercontent.com/110268006/191160256-3353b7f5-df7f-4695-919b-2fa9f1c6e3cb.png">
+
 1. The screen capture shows that Charles Casper Stockham had 23.0% which is equivalent to 85,213 of the votes. 
 
 2. The screen capture shows that Diana Degette has 73.8% of the votes, which is equivalent to 272,892 votes.
 
 3. The screen capture shows that Raymon Anthony Doane has 3.1% of the votes, which is equivalent to 11,606 votes.
+
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 <img width="571" alt="Screen Shot 2022-09-19 at 11 22 49 PM" src="https://user-images.githubusercontent.com/110268006/191160428-1b32b9be-7271-46cc-977b-a670ee0718de.png"> 
 The winner of the election was Diana Degette. 
